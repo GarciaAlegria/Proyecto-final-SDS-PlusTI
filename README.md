@@ -9,6 +9,8 @@
 ## Resumen
 
 Este proyecto se enfoca en la utilización de técnicas de ciencia de datos para mejorar la detección de fraudes financieros. El objetivo principal es priorizar la identificación de transacciones fraudulentas en comercios que han mostrado una alta recurrencia de incidentes de fraude. Mediante el análisis exploratorio de datos (EDA) y la implementación de modelos de *machine learning*, se buscan patrones distintivos entre transacciones legítimas y fraudulentas, prestando especial atención a la evolución temporal del fraude y su concentración en comercios específicos.
+![image](https://github.com/user-attachments/assets/eb33101b-aed2-4042-9595-ff0d9c943bce)
+
 
 ## Metodología
 
